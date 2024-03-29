@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohan0117
-- 👀 I’m interested in C++,JAVA,PHYTHON.
+- 👀 I’m interested in C++,JAVA,PHYTHON & also in HTML, CSS, JAVASCRIPT.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
