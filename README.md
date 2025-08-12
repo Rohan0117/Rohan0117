@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rohan0117
-- 👀 I’m interested in C++,JAVA,PHYTHON & also in HTML, CSS, JAVASCRIPT.
-- 🌱 I’m currently learning C++.
+`- 👋 Hi, I’m @Rohan0117
+- 👀 I’m interested in Cpp, HTML, CSS, JAVASCRIPT, MySQL.
+- 🌱 I’m currently learning Node.JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
